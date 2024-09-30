@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PlantJournal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Plant Journal</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery of All Known Plants</string>
+    <string name="menu_my_plants">My Plant List</string>
+    <string name="MyPlants">All Your Plants</string>
+    <string name="common_name">Common Name</string>
+    <string name="scientific_name">Scientific Name</string>
+    <string name="symbol">Symbol</string>
+    <string name="submit">Search!</string>
+    <string name="sorry_no_plants_found">Sorry,No Plants Found</string>
+    <string name="empty_list_go_add_some_plants">EMPTY LIST, GO ADD SOME PLANTS</string>
+</resources>
